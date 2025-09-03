@@ -1,0 +1,12 @@
+As an user, I can log in to my account
+
+As an user, I can find available coffee shops
+
+As an user, I can get coffee shop descriptions
+
+As an authorized application user, I can add coffee shops (to a list of favorites?)
+
+As an authorized application user, I can update coffee shop's description to "Liked/Visited"
+    // Could potentially add column called "visited" that has boolean value of true or false.//
+
+As an authorized application user, I can delete coffee shops (from my list of favorites?)
