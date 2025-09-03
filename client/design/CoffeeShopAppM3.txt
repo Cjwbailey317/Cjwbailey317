@@ -1,0 +1,13 @@
+As an anonymous user, I can view a list of nearby coffee shops on the home page, sorted by distance.
+
+As an anonymous user, I can click on a coffee shop in the list to view more details (e.g., name, location, hours, rating).
+
+As an anonymous user, I can search for coffee shops by city or ZIP code using a search bar.
+
+As an authenticated user, I can save a coffee shop to my list of favorites.
+
+As an authenticated user, I can view and manage my list of saved favorite coffee shops.
+
+As an authenticated user, I can leave a review or rating for a coffee shop I’ve visited.
+
+As an authenticated user, I can update or delete my own reviews.
